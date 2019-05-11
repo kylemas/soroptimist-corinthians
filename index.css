@@ -1,0 +1,144 @@
+body {
+	height: 100%;
+	font-family: 'Playfair Display', serif;
+
+}
+
+.page {
+	background-repeat: no-repeat;
+	background-size: 100%;
+	margin: auto auto auto auto;
+	overflow: scroll;
+	height: 100vh;
+ 	width: 100vw;
+
+}
+
+.landing {
+	background-image: url("assets/field.jpeg");
+	background-size: 100% 100%;
+	background-size: cover;
+
+}
+
+.logo {
+	padding-top: 1%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.empoweringtext{
+	font-size: 30px;
+	text-align: center;
+	padding-top: 1.5%;
+	color: #fffdd0;
+}
+
+.abouttext {
+	text-align: center;
+	padding-top: 5%;
+	font-size: 50px;
+	color: white;
+}
+
+.aboutheader{
+	padding-bottom: 1%;
+}
+
+.equalityicon{
+	height: 150px;
+	width: 150px;
+	margin-bottom: 5%;
+}
+
+.abouticons {
+	text-align: center;
+	padding-top: 5%;
+	color: white;
+	margin: auto auto auto auto;
+	overflow: scroll;
+}
+
+.teaminfo {
+	padding-right: 10%;
+	padding-left: 10%;
+	padding-top: 2%;
+	color: white;
+}
+
+.teamicons {
+	text-align: center;
+	padding-top: 5%;
+	color: white;
+}
+
+.headshots{
+	height: 150px;
+	width: 150px;
+	border-radius: 50%;
+	margin-bottom: 3%;
+}
+
+.dot {
+    height: 90%;
+    width: 90%;
+    background-color: white;
+    border-radius: 50%;
+    display: inline-block;
+    opacity: 0.75;
+	margin-top: 3%;
+	margin-left: 20%;
+	margin-right: 20%;
+}
+
+.contactheader{
+	text-align: center;
+	padding-top: 15%;
+}
+
+.contactinfo {
+	text-align: center;
+	padding-top: 4%;
+}
+
+.contactlinks {
+	padding-left: 10%;
+}
+
+.americas {
+	padding-left: 25%;
+}
+
+#partof{
+	padding-top: 2%;
+}
+
+
+.hello {
+	background-image: url("assets/about.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+
+}
+
+.info {
+	background-color: #5b69a1;
+	background-repeat: no-repeat;
+
+}
+
+.team {
+	background-color: #ddaeb3;
+	background-repeat: no-repeat;
+}
+
+.contact {
+	background-image: url("assets/laugh.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.container {
+	margin-right: 10%;
+}
